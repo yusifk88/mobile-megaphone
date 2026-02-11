@@ -1,0 +1,3 @@
+[submodule "audioloop"]
+	path = audioloop
+	url = git@github.com:yusifk88/capacitor-audio-loop.git
