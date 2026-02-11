@@ -36,3 +36,43 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Building your project for platform distribution
+Add a platform
+```sh
+npx cap add android
+
+```
+
+```sh
+npx cap add ios
+
+```
+Sync to native code
+```sh
+npx cap sync
+
+```
+
+Test on a device or simulator
+```sh
+npx cap run android
+
+```
+
+```sh
+npx cap run ios
+
+```
+
+Open project in Xcode
+```sh
+npx cap open ios
+
+```
+
+Open project in android studio
+```sh
+npx cap open android
+
+```
