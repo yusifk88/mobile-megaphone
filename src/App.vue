@@ -113,7 +113,7 @@
               <p>DO NOT TURN ON THE MICROPHONE WITHOUT HEADPHONES OR A WIRELESS/CABLE SPEAKER CONNECTED TO THE PHONE.</p>
 
               <p style="margin-top: 20px">This is a hubby project by
-                <a href="https://linkedin.com/in/katulie" class="text-blue-200">Yussif Katulie</a>, Feel free to clone and modify it for own use here.
+                <a href="https://linkedin.com/in/katulie" class="text-blue-200">Yussif Katulie</a>, Feel free to clone and modify it for your own use <a class="text-blue-200" href="https://github.com/yusifk88/mobile-megaphone">here</a>.
               </p>
             </div>
           </div>
